@@ -3,7 +3,7 @@ import SearchBar from "./components/SearchBar";
 import FlightList from "./components/FlightList";
 import Filters from "./components/Filters";
 import LoadingState from "./components/LoadingState";
-import ErrorMessage from "./components/ErrorMessage";
+import ErrorMessage from './components/ErrorMessage';
 import flightAPI from "./services/flightAPI";
 
 function App() {
